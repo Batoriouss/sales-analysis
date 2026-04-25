@@ -1,0 +1,121 @@
+ProductID,ProductName,Category,Subcategory,Brand
+P1000,Product_0,Electronics,Laptops,Brand_2
+P1001,Product_1,Accessories,Cables,Brand_8
+P1002,Product_2,Accessories,Cables,Brand_4
+P1003,Product_3,Home Appliances,Cleaning,Brand_6
+P1004,Product_4,Home Appliances,Cleaning,Brand_2
+P1005,Product_5,Home Appliances,Kitchen,Brand_5
+P1006,Product_6,Home Appliances,Climate,Brand_3
+P1007,Product_7,Accessories,Chargers,Brand_6
+P1008,Product_8,Accessories,Chargers,Brand_6
+P1009,Product_9,Accessories,Cables,Brand_3
+P1010,Product_10,Electronics,Phones,Brand_9
+P1011,Product_11,Accessories,Chargers,Brand_8
+P1012,Product_12,Accessories,Chargers,Brand_10
+P1013,Product_13,Accessories,Cables,Brand_6
+P1014,Product_14,Accessories,Cases,Brand_5
+P1015,Product_15,Home Appliances,Climate,Brand_1
+P1016,Product_16,Electronics,Laptops,Brand_10
+P1017,Product_17,Accessories,Chargers,Brand_2
+P1018,Product_18,Accessories,Cases,Brand_10
+P1019,Product_19,Home Appliances,Kitchen,Brand_2
+P1020,Product_20,Electronics,Phones,Brand_3
+P1021,Product_21,Accessories,Cases,Brand_3
+P1022,Product_22,Electronics,Phones,Brand_1
+P1023,Product_23,Home Appliances,Kitchen,Brand_8
+P1024,Product_24,Electronics,Laptops,Brand_2
+P1025,Product_25,Accessories,Cases,Brand_2
+P1026,Product_26,Home Appliances,Cleaning,Brand_1
+P1027,Product_27,Accessories,Cases,Brand_3
+P1028,Product_28,Electronics,Tablets,Brand_3
+P1029,Product_29,Accessories,Cables,Brand_7
+P1030,Product_30,Accessories,Cases,Brand_8
+P1031,Product_31,Electronics,Tablets,Brand_2
+P1032,Product_32,Accessories,Cases,Brand_2
+P1033,Product_33,Home Appliances,Kitchen,Brand_3
+P1034,Product_34,Accessories,Chargers,Brand_10
+P1035,Product_35,Electronics,Phones,Brand_3
+P1036,Product_36,Home Appliances,Cleaning,Brand_9
+P1037,Product_37,Home Appliances,Kitchen,Brand_4
+P1038,Product_38,Accessories,Cases,Brand_10
+P1039,Product_39,Home Appliances,Cleaning,Brand_3
+P1040,Product_40,Accessories,Cases,Brand_10
+P1041,Product_41,Electronics,Tablets,Brand_9
+P1042,Product_42,Electronics,Laptops,Brand_9
+P1043,Product_43,Electronics,Phones,Brand_6
+P1044,Product_44,Home Appliances,Climate,Brand_2
+P1045,Product_45,Home Appliances,Climate,Brand_2
+P1046,Product_46,Home Appliances,Kitchen,Brand_4
+P1047,Product_47,Accessories,Cases,Brand_9
+P1048,Product_48,Home Appliances,Cleaning,Brand_7
+P1049,Product_49,Electronics,Phones,Brand_3
+P1050,Product_50,Home Appliances,Cleaning,Brand_8
+P1051,Product_51,Electronics,Laptops,Brand_10
+P1052,Product_52,Accessories,Cables,Brand_4
+P1053,Product_53,Accessories,Chargers,Brand_6
+P1054,Product_54,Accessories,Cables,Brand_2
+P1055,Product_55,Accessories,Cables,Brand_8
+P1056,Product_56,Home Appliances,Cleaning,Brand_2
+P1057,Product_57,Home Appliances,Kitchen,Brand_8
+P1058,Product_58,Electronics,Laptops,Brand_1
+P1059,Product_59,Home Appliances,Kitchen,Brand_7
+P1060,Product_60,Home Appliances,Cleaning,Brand_3
+P1061,Product_61,Electronics,Phones,Brand_3
+P1062,Product_62,Home Appliances,Climate,Brand_1
+P1063,Product_63,Electronics,Phones,Brand_8
+P1064,Product_64,Accessories,Cases,Brand_8
+P1065,Product_65,Accessories,Cases,Brand_8
+P1066,Product_66,Electronics,Phones,Brand_7
+P1067,Product_67,Electronics,Tablets,Brand_2
+P1068,Product_68,Accessories,Cables,Brand_9
+P1069,Product_69,Home Appliances,Climate,Brand_10
+P1070,Product_70,Accessories,Cases,Brand_8
+P1071,Product_71,Home Appliances,Cleaning,Brand_2
+P1072,Product_72,Electronics,Tablets,Brand_8
+P1073,Product_73,Accessories,Cases,Brand_2
+P1074,Product_74,Home Appliances,Kitchen,Brand_4
+P1075,Product_75,Electronics,Tablets,Brand_3
+P1076,Product_76,Accessories,Cables,Brand_7
+P1077,Product_77,Home Appliances,Climate,Brand_10
+P1078,Product_78,Electronics,Phones,Brand_6
+P1079,Product_79,Accessories,Cables,Brand_4
+P1080,Product_80,Home Appliances,Kitchen,Brand_1
+P1081,Product_81,Electronics,Laptops,Brand_2
+P1082,Product_82,Electronics,Phones,Brand_4
+P1083,Product_83,Electronics,Phones,Brand_9
+P1084,Product_84,Accessories,Cases,Brand_3
+P1085,Product_85,Home Appliances,Climate,Brand_4
+P1086,Product_86,Electronics,Laptops,Brand_6
+P1087,Product_87,Electronics,Phones,Brand_4
+P1088,Product_88,Home Appliances,Kitchen,Brand_10
+P1089,Product_89,Accessories,Cases,Brand_5
+P1090,Product_90,Accessories,Cables,Brand_9
+P1091,Product_91,Home Appliances,Kitchen,Brand_4
+P1092,Product_92,Home Appliances,Cleaning,Brand_2
+P1093,Product_93,Home Appliances,Climate,Brand_9
+P1094,Product_94,Electronics,Laptops,Brand_1
+P1095,Product_95,Electronics,Tablets,Brand_7
+P1096,Product_96,Electronics,Tablets,Brand_3
+P1097,Product_97,Home Appliances,Cleaning,Brand_9
+P1098,Product_98,Accessories,Cases,Brand_8
+P1099,Product_99,Accessories,Cables,Brand_10
+P1100,Product_100,Electronics,Phones,Brand_6
+P1101,Product_101,Accessories,Cases,Brand_4
+P1102,Product_102,Home Appliances,Cleaning,Brand_5
+P1103,Product_103,Electronics,Phones,Brand_10
+P1104,Product_104,Home Appliances,Climate,Brand_8
+P1105,Product_105,Home Appliances,Climate,Brand_1
+P1106,Product_106,Electronics,Tablets,Brand_3
+P1107,Product_107,Electronics,Laptops,Brand_9
+P1108,Product_108,Accessories,Cases,Brand_3
+P1109,Product_109,Accessories,Chargers,Brand_2
+P1110,Product_110,Home Appliances,Kitchen,Brand_3
+P1111,Product_111,Accessories,Cables,Brand_2
+P1112,Product_112,Electronics,Laptops,Brand_10
+P1113,Product_113,Home Appliances,Kitchen,Brand_10
+P1114,Product_114,Accessories,Chargers,Brand_1
+P1115,Product_115,Accessories,Cables,Brand_8
+P1116,Product_116,Electronics,Tablets,Brand_3
+P1117,Product_117,Electronics,Phones,Brand_9
+P1118,Product_118,Electronics,Phones,Brand_5
+P1119,Product_119,Home Appliances,Kitchen,Brand_1
